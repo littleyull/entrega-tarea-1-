@@ -12,3 +12,4 @@
 - se crea la carpeta con el mkdir
 - se ingresa a la carpeta con el comando cd y se crea una nueva carpeta
 - anexe el archivo html po medio del visual code
+- enlace del page https://littleyull.github.io/entrega-tarea-1-/
